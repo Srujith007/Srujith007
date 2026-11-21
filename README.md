@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Srujith Raj 👋
 
-<!--
-**Srujith007/Srujith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | Final-year B.Tech (AI & ML), Mohan Babu University, Tirupati | Based in Nellore, India
 
-Here are some ideas to get you started:
+I turn raw data into clear insights and business recommendations using SQL, Power BI and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Querying:** SQL (joins, aggregations, CTEs, window functions)
+- **Visualisation:** Power BI (dashboards, DAX), Excel (pivot tables, Power Query)
+- **Analysis:** Python (pandas, NumPy, Matplotlib), Exploratory Data Analysis, data cleaning, KPI reporting
+
+## 📊 Featured Projects
+
+| Project | Tools | What it answers |
+| --- | --- | --- |
+| [Hotel Reservation Analytics](#) | SQL, Power BI | Why do bookings get cancelled, and which segments earn the most? |
+| [E-commerce Delivery & Customer Analysis](#) | SQL, Python | Do late deliveries hurt reviews and repeat purchases? |
+| [Customer Churn Analysis](#) | Python, Power BI | Who is likely to churn, and what retention action helps? |
+
+*(Replace each `#` with the repo link once the project is uploaded.)*
+
+## 📫 Connect with me
+
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-handle)
+- Email: srujithraj007@gmail.com
+
+I'm currently looking for **Data Analyst / Business Analyst** roles.
